@@ -390,7 +390,7 @@ body::-webkit-scrollbar-thumb:hover {
   }
   10%,
   40% {
-    width: 14em;
+    width: 16em;
   }
 }
 
